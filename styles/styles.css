@@ -128,4 +128,33 @@ body {
     font-size: 16px;
     margin: 0;
   }
+  .post-footer {
+    margin-top: 10px;
+  }
+
+  .post-date {
+    font-size: 12px;
+    margin: 0;
+    color: #2e2b2b; 
+    margin-left: 10px;
+  }
+  
+  
+.like-button,
+.reply-button {
+  padding: 5px 10px;
+  background-color: #3498db;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.like-count {
+  font-size: small;
+  font-weight: bold;
+  margin-right: 5px;
+}
   
